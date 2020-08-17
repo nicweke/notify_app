@@ -1,0 +1,14 @@
+{
+  "name": "alan_ai_react",
+  "version": "1.0.0",
+  "description": "This is a Alan AI news application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
